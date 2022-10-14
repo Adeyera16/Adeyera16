@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asimolowo Adeyera
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning with ALX and Stutern
-- 💞️ I’m looking to collaborate on different programming languages
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me @asimolowoelizabeth@gmail.com
 
 <!---
